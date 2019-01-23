@@ -1,4 +1,6 @@
 # hello-world
 My first repository.
 
-I am Marcio and live in Melbourne.
+Estou estudando javascript com meus amigos, nao me atrapalhe.
+
+Thanks
